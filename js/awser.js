@@ -13,8 +13,3 @@ awser.warn = function (text){
     var v = text;
     console.warn("控制台有一个警告：" + v);
 }
-
-awser.about = function (){
-    mdui.alert("该js文件为awser124.github.io的专属脚本文件。","关于");
-}
-//awser的必备js脚本。
